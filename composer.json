@@ -1,6 +1,6 @@
 {
     "name": "landofcoder/theme-frontend-fresh",
-    "description": "N/A",
+    "description": "Ves Fresh theme - food, grocery theme",
     "require": {
         "venustheme/module-all": "1.*",
         "venustheme/module-brand": "1.*",

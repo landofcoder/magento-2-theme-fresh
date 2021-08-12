@@ -1,0 +1,25 @@
+{
+    "name": "landofcoder/theme-frontend-fresh",
+    "description": "N/A",
+    "require": {
+        "venustheme/module-all": "1.*",
+        "venustheme/module-brand": "1.*",
+        "venustheme/magento2-product-list": "1.*",
+        "venustheme/module-themesettings": "1.*",
+        "venustheme/magento2-setup": "1.*",
+        "landofcoder/module-all": "1.*",
+        "landofcoder/module-imageslider": "1.*",
+        "landofcoder/module-autosearch": "1.0.*"
+    },
+    "type": "magento2-theme",
+    "version": "100.2.2",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
